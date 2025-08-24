@@ -1,21 +1,20 @@
 # Hi there! 👋 I'm Mohammad Pouryousefi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Senior+Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript+Expert;Performance+Optimization+Enthusiast;Team+Leader+%26+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Performance+Optimization+Enthusiast;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-As a **Senior Full Stack Developer** with over five years of experience, I specialize in building scalable, high-performance web applications. My expertise spans both front-end and back-end development, leveraging cutting-edge technologies such as **React**, **Next.js**, **TypeScript**, and **Node.js**. I am passionate about writing clear, efficient code, applying best practices, and delivering exceptional user experiences. My background includes team leadership, performance optimization, and developing maintainable software solutions.
+As a ** Full Stack Developer** with over 4 years of experience, I specialize in building scalable, high-performance web applications. My expertise spans both front-end and back-end development, leveraging cutting-edge technologies such as **React**, **Next.js**, **TypeScript**, and **Node.js**. I am passionate about writing clear, efficient code, applying best practices, and delivering exceptional user experiences. My background includes team leadership, performance optimization, and developing maintainable software solutions.
 
 - 🎓 **Education:** Master's Degree, University of Vienna, 2024
-- 🏆 **Team Leadership:** Led cross-functional teams to deliver robust fintech and e-commerce solutions
 - 💡 **Performance Optimization:** Expert in building real-time dashboards, scalable architectures, and secure authentication systems
 - 🌍 **Languages:** English, German
 
 ## 💼 Work Experience
 
-**Senior Full Stack Developer – Vienna (Feb 2024 - Present)**
+**Full Stack Developer – Vienna (Feb 2024 - Present)**
 - Developed and maintained fintech applications using ReactJS, Next.js, React Native, and TypeScript
 - Built real-time dashboards for transactions, investments, and stocks with WebSockets & GraphQL
 - Crafted interactive UIs with Tailwind, Material UI, Skia, and Lottie
@@ -44,8 +43,7 @@ As a **Senior Full Stack Developer** with over five years of experience, I speci
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 ### UI & Styling
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
