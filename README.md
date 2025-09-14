@@ -8,7 +8,7 @@
 
 As a ** Full Stack Developer** with over 4 years of experience, I specialize in building scalable, high-performance web applications. My expertise spans both front-end and back-end development, leveraging cutting-edge technologies such as **React**, **Next.js**, **TypeScript**, and **Node.js**. I am passionate about writing clear, efficient code, applying best practices, and delivering exceptional user experiences. My background includes team leadership, performance optimization, and developing maintainable software solutions.
 
-- 🎓 **Education:** Master's Degree, University of Vienna, 2024
+- 🎓 **Education:** Master's Degree of computer science, University of Vienna, 2024
 - 💡 **Performance Optimization:** Expert in building real-time dashboards, scalable architectures, and secure authentication systems
 - 🌍 **Languages:** English, German
 
