@@ -19,7 +19,6 @@ Full stack developer with **5+ years of professional experience** building produ
 
 - 🔭 Currently: freelance full stack work + M.Sc. Computer Science at Universität Wien
 - 🧱 Focus: Next.js (App Router), TypeScript, Node.js, PostgreSQL, real-time UIs
-- 🇦🇹 Open to full-time roles in Austria / DACH
 
 ### Featured work
 
